@@ -14,3 +14,4 @@
 
 [6-multiple_permissions](./6-multiple_permissions) - Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello. The file hello will be in the working directory.
 
+[7-everybody](./7-everybody) - Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello. The file hello will be in the working directory,  You are not allowed to use commas for this script
